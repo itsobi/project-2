@@ -1,0 +1,48 @@
+body {
+    letter-spacing: 1.5px;
+    font-family: 'Indie Flower', cursive;
+    font-family: 'Raleway', sans-serif;
+}
+
+.navbar {
+    background-color: #209E9E;
+    padding-bottom: 30px;
+}
+
+.navbar-collapse {
+    text-align: center;
+    padding-top: 15px;
+}
+
+#first {
+    text-align: center;
+    padding-top: 10px;
+}
+
+.col-md-6 {
+    align-self: center;
+    line-height: 200%;
+}
+
+.container-fluid {
+    padding-top: 10px;
+}
+
+.container {
+    text-align: left;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+.quote {
+    text-align: right;
+    padding-right: 40px;
+}
+
+.col-sm-3 {
+    padding-top: 15px;
+}
+
+img {
+    border-radius: 10px;
+}
